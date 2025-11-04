@@ -5,7 +5,7 @@
 
 <!-- 자기소개 -->
 <h3 align="center">
-  Hello! I'm <strong>MyeonggyunPark</strong>, an aspiring <strong>Python Backend Web Developer</strong> 🐍
+  Hello! I'm <strong>MyeonggyunPark</strong>, an aspiring <strong>Python Backend Web Developer</strong>
 </h3>
 
 <!-- 학습 중인 기술 -->
