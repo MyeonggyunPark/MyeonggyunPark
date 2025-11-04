@@ -7,6 +7,7 @@
 <h3 align="center"> 
   Hello! I'm <strong>Myeonggyun Park</strong>, an aspiring <strong>Python Backend Web Developer</strong> 
 </h3>
+<br><br>
 
 <!-- 학습 중인 기술 -->
 <p align="center">
@@ -15,6 +16,7 @@
   and  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25px" title="JavaScript" />
 </p>
+<br><br>
 
 <!-- 주요 기술 스택 -->
 <h4 align="center">Here's My Main Skill set</h4>
@@ -26,6 +28,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
+<br><br>
 
 
 ### Github stats
