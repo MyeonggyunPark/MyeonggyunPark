@@ -5,7 +5,7 @@
 
 <!-- 자기소개 -->
 <h3 align="center">
-  Hello! I'm <strong>MyeonggyunPark</strong>, an aspiring <strong>Python Backend Web Developer</strong>
+  Hello! I'm <strong><span style="color:#FFD43B;">MyeonggyunPark</span></strong>, an aspiring <strong><span style="color:#3776AB;">Python Backend Web Developer</span></strong> 🐍
 </h3>
 
 <!-- 학습 중인 기술 -->
@@ -31,12 +31,12 @@
 ### Github stats
 <hr>
 <br>
-<div>
-  <a>
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=MyeonggyunPark&show_icons=true"/>
+<div align="center">
+  <a style="margin-right: 10px;">
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=MyeonggyunPark&show_icons=true" />
   </a>
   <a>
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyeonggyunPark&layout=compact&theme=dark"/>
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyeonggyunPark&layout=compact&theme=dark" />
   </a>
 </div>
 
