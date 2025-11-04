@@ -29,6 +29,7 @@
 
 
 ### Github stats
+<hr>
 <br>
 <div>
   <a>
