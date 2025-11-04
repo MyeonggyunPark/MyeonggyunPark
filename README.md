@@ -4,10 +4,9 @@
 </p>
 
 <!-- 자기소개 -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Name-Myeonggyun_Park-FFD43B?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Python_Backend_Developer-3776AB?style=flat&logo=django&logoColor=white" />
-</p>
+<h3 align="center"> 
+  Hello! I'm <strong>Myeonggyun Park</strong>, an aspiring <strong>Python Backend Web Developer</strong> 
+</h3>
 
 <!-- 학습 중인 기술 -->
 <p align="center">
@@ -33,7 +32,7 @@
 <hr>
 <br>
 <div align="center">
-  <a style="margin-right: 20px;">
+  <a>
     <img width="47%" src="https://github-readme-stats.vercel.app/api?username=MyeonggyunPark&show_icons=true" />
   </a>
   <a>
