@@ -73,12 +73,19 @@
 <hr>
 <br>
 <div align="center">
-  <a>
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=MyeonggyunPark&show_icons=true" />
+  <a href="https://github.com/MyeonggyunPark" target="_blank">
+    <img
+      width="47%"
+      src="https://github-readme-stats-five-tau-39.vercel.app/api?username=MyeonggyunPark&show_icons=true"
+    />
   </a>
-  <a>
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyeonggyunPark&layout=compact&theme=dark" />
+  <a href="https://github.com/MyeonggyunPark" target="_blank">
+    <img
+      width="47%"
+      src="https://github-readme-stats-five-tau-39.vercel.app/api/top-langs/?username=MyeonggyunPark&layout=compact&theme=dark"
+    />
   </a>
 </div>
+
 
 
