@@ -76,13 +76,13 @@
   <a href="https://github.com/MyeonggyunPark" target="_blank">
     <img
       width="47%"
-      src="https://github-readme-stats-five-tau-39.vercel.app/api?username=MyeonggyunPark&show_icons=true"
+      src="https://github-readme-stats-five-tau-39.vercel.app/api?username=MyeonggyunPark&show_icons=true&v=99"
     />
   </a>
   <a href="https://github.com/MyeonggyunPark" target="_blank">
     <img
       width="47%"
-      src="https://github-readme-stats-five-tau-39.vercel.app/api/top-langs/?username=MyeonggyunPark&layout=compact&theme=dark"
+      src="https://github-readme-stats-five-tau-39.vercel.app/api/top-langs/?username=MyeonggyunPark&layout=compact&theme=dark&v=99"
     />
   </a>
 </div>
