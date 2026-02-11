@@ -76,16 +76,15 @@
   <a href="https://github.com/MyeonggyunPark" target="_blank">
     <img
       width="47%"
-      src="https://github-readme-stats-theta-one-cdds8iylka.vercel.app/api?username=MyeonggyunPark&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api?username=MyeonggyunPark&show_icons=true&theme=dark"
     />
   </a>
   <a href="https://github.com/MyeonggyunPark" target="_blank">
     <img
       width="47%"
-      src="https://github-readme-stats-theta-one-cdds8iylka.vercel.app/api/top-langs/?username=MyeonggyunPark&layout=compact&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyeonggyunPark&layout=compact&theme=dark"
     />
   </a>
 </div>
-
 
 
