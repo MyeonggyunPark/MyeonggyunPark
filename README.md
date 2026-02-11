@@ -73,17 +73,14 @@
 <hr>
 <br>
 <div align="center">
-  <a href="https://github.com/MyeonggyunPark" target="_blank">
-    <img
-      width="47%"
-      src="https://github-readme-stats.vercel.app/api?username=MyeonggyunPark&show_icons=true&theme=dark"
-    />
+  <a href="https://github.com/MyeonggyunPark">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MyeonggyunPark&theme=dark&hide_border=true" alt="MyeonggyunPark's Streak" />
   </a>
-  <a href="https://github.com/MyeonggyunPark" target="_blank">
-    <img
-      width="47%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyeonggyunPark&layout=compact&theme=dark"
-    />
+  
+  <br/><br/>
+
+  <a href="https://github.com/MyeonggyunPark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyeonggyunPark&layout=compact&theme=dark&hide_border=true" alt="MyeonggyunPark's Top Langs" />
   </a>
 </div>
 
