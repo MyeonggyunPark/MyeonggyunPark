@@ -80,7 +80,7 @@
   <br/><br/>
 
   <a href="https://github.com/MyeonggyunPark">
-    <img src="https://github-readme-stats-pfpj4r5do-myeonggyuns-projects.vercel.app/api/top-langs/?username=MyeonggyunPark&layout=compact&theme=dark&hide_border=true" alt="MyeonggyunPark's Top Langs" />
+    <img src="https://github-readme-stats-pfpj4r5do-myeonggyuns-projects.vercel.app/api/top-langs/?username=MyeonggyunPark&layout=compact&theme=dark&hide_border=true&v=1" alt="MyeonggyunPark's Top Langs" />
   </a>
 </div>
 
